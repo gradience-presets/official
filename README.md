@@ -17,7 +17,7 @@ builder    | [@GradienceTeam](https://github.com/GradienceTeam)
 
 ## New preset process
 
-Presets can be moved from the `community` status to the [`official`](/official) status. That's the process:
+Presets can be moved from the `curated` status to the [`official`](/official) status. That's the process:
 
 1. The preset should already be in this org. If not, refer to the [new](https://github.com/gradience-presets/new) repo.
 2. Open an issue and select the `New preset` template.
