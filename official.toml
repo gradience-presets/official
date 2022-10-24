@@ -1,4 +1,5 @@
 [official]
 Type="github" # default
 URL="https://github.com/gradience-presets"
+Organization="gradience-presets"
 Filter="official.*" # preset will be in all repo starting with official.
